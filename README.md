@@ -44,7 +44,9 @@ Our method Text2Video-Zero enables zero-shot video generation using
 ![arcane](https://github.com/Picsart-AI-Research/Text2Video-Zero/blob/main/__assets__/github/results/canny_db/arcane_style_merged_with_input.gif)
 "arcane style"
 
-## Thin-Plate Spline Motion Model for Image Animation
+### Thin-Plate Spline Motion Model for Image Animation
+
+- https://github.com/yoyo-nb/Thin-Plate-Spline-Motion-Model
 
 ![animate](https://github.com/yoyo-nb/Thin-Plate-Spline-Motion-Model/raw/main/assets/vox.gif)
 
@@ -77,6 +79,12 @@ https://github.com/hitachinsk/FGT
 
 ![girl with ball2](https://github.com/megvii-research/ECCV2022-RIFE/blob/main/demo/D2_slomo_clipped.gif)
 
+
+### nvidia SoTA
+
+- https://research.nvidia.com/labs/toronto-ai/VideoLDM/
+
+
 ### Kaliber
 
 
@@ -94,11 +102,12 @@ https://github.com/hitachinsk/FGT
 ![Instruct-Pix2Pix](https://www.timothybrooks.com/instruct-pix2pix/)
 ![teaser](https://instruct-pix2pix.timothybrooks.com/teaser.jpg)
 
+https://dreambooth.github.io
+
 ### Stability Ai
 
 - https://beta.dreamstudio.ai/
 
-## Utils
 
 ### Audio editing
 https://www.descript.com/podcasting
@@ -108,5 +117,9 @@ https://www.descript.com/podcasting
 
 ### Look into:
 
-https://invideo.io/?ref=yti0mte
-https://www.gling.ai/#how-it-works
+https://github.com/filipecalegario/awesome-generative-ai
+https://github.com/dmarx/video-killed-the-radio-star
+https://phenaki.research.google
+
+
+https://phenaki.research.google
