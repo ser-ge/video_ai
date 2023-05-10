@@ -1,11 +1,9 @@
 # Video Generation Reference
 
 
-
 ## Papers with code
 
 [Text To Video](https://paperswithcode.com/task/text-to-video-generation)
-
 
 
 ## followyourpose
@@ -93,6 +91,7 @@ https://github.com/hitachinsk/FGT
 ### Stability Ai
 
 - https://beta.dreamstudio.ai/
+
 ## Utils
 
 ### Audio editing
