@@ -34,8 +34,12 @@ Our method Text2Video-Zero enables zero-shot video generation using
 ![cat](https://github.com/Picsart-AI-Research/Text2Video-Zero/blob/main/__assets__/github/results/t2v/cat_running.gif)
 "A cat is running on the grass"
 
+
+## with guidance
 - Text To Video with Edge Guidance
+-
 ![edge](https://github.com/Picsart-AI-Research/Text2Video-Zero/blob/main/__assets__/github/results/edge2v/jelly_merged_with_input.gif)
+
 "A jelly Fish"
 
 ![arcane](https://github.com/Picsart-AI-Research/Text2Video-Zero/blob/main/__assets__/github/results/canny_db/arcane_style_merged_with_input.gif)
