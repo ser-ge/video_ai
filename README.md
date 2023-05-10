@@ -30,6 +30,7 @@ Our method Text2Video-Zero enables zero-shot video generation using
 
 - Text to Video
 ![cat](https://github.com/Picsart-AI-Research/Text2Video-Zero/blob/main/__assets__/github/results/t2v/cat_running.gif)
+
 "A cat is running on the grass"
 
 
@@ -44,6 +45,7 @@ Our method Text2Video-Zero enables zero-shot video generation using
 "arcane style"
 
 ## Thin-Plate Spline Motion Model for Image Animation
+
 ![animate](https://github.com/yoyo-nb/Thin-Plate-Spline-Motion-Model/raw/main/assets/vox.gif)
 
 "talking head video" + image --> video
@@ -66,8 +68,12 @@ https://github.com/hitachinsk/FGT
 
 
 ### Frame Interpolation
+
 - https://github.com/megvii-research/ECCV2022-RIFE
-![girl with ball](https://github.com/megvii-research/ECCV2022-RIFE/blob/main/demo/D2_slomo_clipped.gif)
+
+    16x Interpolation from 2 input images:
+
+![girl with ball](https://github.com/megvii-research/ECCV2022-RIFE/raw/main/demo/I2_slomo_clipped.gif)
 
 ![girl with ball2](https://github.com/megvii-research/ECCV2022-RIFE/blob/main/demo/D2_slomo_clipped.gif)
 
