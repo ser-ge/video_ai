@@ -1,0 +1,15 @@
+[tool.poetry]
+name = "video-ai"
+version = "0.1.0"
+description = ""
+authors = ["Serge Mosesov <smosesov@gmail.com>"]
+readme = "README.md"
+packages = [{include = "video_gen"}]
+
+[tool.poetry.dependencies]
+python = "^3.8"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
